@@ -7,7 +7,7 @@ import (
 
 func init() {
 	fmt.Print(utils.ASCII)
-	fmt.Println(utils.VERSION)
+	fmt.Println(utils.INFO)
 	fmt.Println(utils.LINE)
 }
 
